@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Kotlin</string>
+    <string name="text_has_been_changed">0</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+</resources>
